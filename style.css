@@ -1,0 +1,89 @@
+.spisok{
+    display: flex;
+    font-size: 60px;
+    list-style-type: none;
+    background-color: yellow;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-right: 4px;
+}
+.spisok li {
+    margin-right: 300px;
+    color: yellow;
+    text-decoration: none;
+}
+.spisok a {
+    text-decoration: none;
+    color: orangered;
+}
+h1 {
+    font-size: 70px;
+}
+.spisok_left li {
+    text-decoration: none;
+    font-size: 50px;
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+.spisok_left img {
+    width: 27px;
+    height: 27px;
+    padding-right: 20px;
+    
+}
+h2 {
+    font-size: 50px;
+    padding-left: 40px;
+    padding-bottom: 5px;
+}
+.text_left{
+    width: 350px;
+    font-size: 50px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    padding-top: 0px;
+}
+.spisok_down_l li {
+    text-decoration: none;
+    font-size: 50px;
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+.spisok_down_l img {
+    width: 27px;
+    height: 27px;
+    padding-right: 20px;
+}
+.right {
+    padding: 50px;
+    width: auto;
+    margin-left: 50px;
+}
+.container{
+    width: 1000px;
+    margin-left: 50px;
+}
+.stor{
+    display: flex;
+}
+.pcholka{
+    width: 3000px;
+    height: 500px;
+}
+.text_right{
+    font-size: 50px;
+}
+.read_more{
+    padding-left: 2000px;
+    font-size: 50px;
+}
+.grey_txt{
+    color: gray;
+}
+footer {
+    font-size: 50px;
+    text-align: center;
+}
+.stor a {
+    color: rgb(161, 161, 10);
+}
